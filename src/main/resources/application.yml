@@ -1,13 +1,14 @@
-# Environment Variables
-fromEnv:
-  envVars:
-    - name: HOST
-    value: ${DB_HOST}
-    - name: NAME
-    value: ${DB_NAME}
-    - name: PASSWORD
-    value: ${DB_PASSWORD}
-    - name: PORT
-    value: ${DB_PORT}
-    - name: USERNAME
-    value: ${DB_USERNAME}
+apis:
+  # Environment Variables
+  fromEnv:
+    envVars:
+      - name: HOST
+        value: ${DB_HOST}
+      - name: NAME
+        value: ${DB_NAME}
+      - name: PASSWORD
+        value: ${DB_PASSWORD}
+      - name: PORT
+        value: ${DB_PORT}
+      - name: USERNAME
+        value: ${DB_USERNAME}
