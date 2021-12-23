@@ -20,7 +20,7 @@
 <li>https://thirukkuralapp-api.herokuapp.com/getSectionNameByNumber?sectionNumber=1</li>
 <li>https://thirukkuralapp-api.herokuapp.com/getAllByChapterName?chapterName=அறத்துப்பால்</li>
 <li>https://thirukkuralapp-api.herokuapp.com/getAllByChapterNumber?chapterNumber=1</li>
-<li>https://thirukkuralapp-api.herokuapp.com/getAllBySectionName?sectionName= கடவுள் வாழ்த்து (Might need a space before section name)</li>
+<li>https://thirukkuralapp-api.herokuapp.com/getAllBySectionName?sectionName=%20கடவுள்%20வாழ்த்து (Might need a space before section name)</li>
 <li>https://thirukkuralapp-api.herokuapp.com/getAllBySectionNumber?sectionNumber=3</li>
 <li>https://thirukkuralapp-api.herokuapp.com/getAll</li>
 <li>https://thirukkuralapp-api.herokuapp.com/getRandom</li>
